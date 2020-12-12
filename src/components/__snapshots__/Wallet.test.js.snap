@@ -42,12 +42,11 @@ ShallowWrapper {
           >
                     Deposit
           </button>
-          <br />
           <button
                     className="btn-withdraw"
                     onClick={[Function]}
           >
-                    Deposit
+                    Withdraw
           </button>
 </label>,
       ],
@@ -98,12 +97,11 @@ ShallowWrapper {
 >
               Deposit
 </button>,
-            <br />,
             <button
               className="btn-withdraw"
               onClick={[Function]}
 >
-              Deposit
+              Withdraw
 </button>,
           ],
         },
@@ -137,24 +135,15 @@ ShallowWrapper {
           },
           Object {
             "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {},
-            "ref": null,
-            "rendered": null,
-            "type": "br",
-          },
-          Object {
-            "instance": null,
             "key": "withdraw",
             "nodeType": "host",
             "props": Object {
-              "children": "Deposit",
+              "children": "Withdraw",
               "className": "btn-withdraw",
               "onClick": [Function],
             },
             "ref": null,
-            "rendered": "Deposit",
+            "rendered": "Withdraw",
             "type": "button",
           },
         ],
@@ -189,12 +178,11 @@ ShallowWrapper {
             >
                         Deposit
             </button>
-            <br />
             <button
                         className="btn-withdraw"
                         onClick={[Function]}
             >
-                        Deposit
+                        Withdraw
             </button>
 </label>,
         ],
@@ -245,12 +233,11 @@ ShallowWrapper {
 >
                 Deposit
 </button>,
-              <br />,
               <button
                 className="btn-withdraw"
                 onClick={[Function]}
 >
-                Deposit
+                Withdraw
 </button>,
             ],
           },
@@ -284,24 +271,15 @@ ShallowWrapper {
             },
             Object {
               "instance": null,
-              "key": undefined,
-              "nodeType": "host",
-              "props": Object {},
-              "ref": null,
-              "rendered": null,
-              "type": "br",
-            },
-            Object {
-              "instance": null,
               "key": "withdraw",
               "nodeType": "host",
               "props": Object {
-                "children": "Deposit",
+                "children": "Withdraw",
                 "className": "btn-withdraw",
                 "onClick": [Function],
               },
               "ref": null,
-              "rendered": "Deposit",
+              "rendered": "Withdraw",
               "type": "button",
             },
           ],
